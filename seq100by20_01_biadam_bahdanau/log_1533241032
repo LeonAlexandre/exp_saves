@@ -1,0 +1,4 @@
+# log_file=./seq100by20_01_biadam_bahdanau/log_1533241032
+# Start step 13500, lr 0.0001, Thu Aug  2 20:17:47 2018
+  step 13600 lr 0.0001 step-time 0.57s wps 10.07K ppl 1.46 gN 13.78 edit_distance 0.19, Thu Aug  2 20:18:44 2018
+  step 13700 lr 0.0001 step-time 0.55s wps 10.32K ppl 1.47 gN 16.89 edit_distance 0.19, Thu Aug  2 20:19:39 2018

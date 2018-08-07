@@ -1,0 +1,5 @@
+Dataset Report
+Number of sequences =   1000
+Average edit distance = 0.1755643564356436
+Average length mismatch = 6.948
+Mode = hamming

@@ -1,0 +1,38 @@
+# log_file=./seq100by20_01_biadam_bahdanau/log_1533236207
+# Start step 7000, lr 0.0001, Thu Aug  2 18:57:22 2018
+  step 7100 lr 0.0001 step-time 0.57s wps 9.98K ppl 1.52 gN 21.58 edit_distance 0.20, Thu Aug  2 18:58:19 2018
+  step 7200 lr 0.0001 step-time 0.55s wps 10.37K ppl 1.52 gN 23.82 edit_distance 0.20, Thu Aug  2 18:59:14 2018
+  step 7300 lr 0.0001 step-time 0.54s wps 10.53K ppl 1.52 gN 22.25 edit_distance 0.20, Thu Aug  2 19:00:08 2018
+  step 7400 lr 0.0001 step-time 0.55s wps 10.31K ppl 1.52 gN 23.66 edit_distance 0.20, Thu Aug  2 19:01:03 2018
+  step 7500 lr 0.0001 step-time 0.55s wps 10.30K ppl 1.51 gN 19.95 edit_distance 0.20, Thu Aug  2 19:01:58 2018
+  step 7600 lr 0.0001 step-time 0.55s wps 10.31K ppl 1.51 gN 21.12 edit_distance 0.19, Thu Aug  2 19:03:14 2018
+  step 7700 lr 0.0001 step-time 0.55s wps 10.28K ppl 1.51 gN 22.54 edit_distance 0.19, Thu Aug  2 19:04:10 2018
+  step 7800 lr 0.0001 step-time 0.55s wps 10.30K ppl 1.51 gN 20.53 edit_distance 0.19, Thu Aug  2 19:05:05 2018
+  step 7900 lr 0.0001 step-time 0.55s wps 10.46K ppl 1.51 gN 21.24 edit_distance 0.19, Thu Aug  2 19:05:59 2018
+  step 8000 lr 0.0001 step-time 0.55s wps 10.29K ppl 1.51 gN 20.25 edit_distance 0.19, Thu Aug  2 19:06:54 2018
+  step 8100 lr 0.0001 step-time 0.55s wps 10.29K ppl 1.50 gN 20.56 edit_distance 0.19, Thu Aug  2 19:08:25 2018
+  step 8200 lr 0.0001 step-time 0.55s wps 10.26K ppl 1.50 gN 21.99 edit_distance 0.19, Thu Aug  2 19:09:20 2018
+  step 8300 lr 0.0001 step-time 0.55s wps 10.27K ppl 1.50 gN 21.76 edit_distance 0.19, Thu Aug  2 19:10:15 2018
+  step 8400 lr 0.0001 step-time 0.55s wps 10.29K ppl 1.50 gN 18.07 edit_distance 0.19, Thu Aug  2 19:11:10 2018
+  step 8500 lr 0.0001 step-time 0.55s wps 10.29K ppl 1.50 gN 23.63 edit_distance 0.19, Thu Aug  2 19:12:05 2018
+  step 8600 lr 0.0001 step-time 0.54s wps 10.50K ppl 1.50 gN 20.38 edit_distance 0.19, Thu Aug  2 19:13:22 2018
+  step 8700 lr 0.0001 step-time 0.55s wps 10.29K ppl 1.50 gN 19.36 edit_distance 0.19, Thu Aug  2 19:14:17 2018
+  step 8800 lr 0.0001 step-time 0.55s wps 10.25K ppl 1.49 gN 18.77 edit_distance 0.19, Thu Aug  2 19:15:12 2018
+  step 8900 lr 0.0001 step-time 0.55s wps 10.24K ppl 1.49 gN 18.99 edit_distance 0.19, Thu Aug  2 19:16:07 2018
+  step 9000 lr 0.0001 step-time 0.55s wps 10.26K ppl 1.49 gN 20.89 edit_distance 0.19, Thu Aug  2 19:17:02 2018
+  step 9100 lr 0.0001 step-time 0.55s wps 10.28K ppl 1.49 gN 18.72 edit_distance 0.19, Thu Aug  2 19:18:33 2018
+  step 9200 lr 0.0001 step-time 0.55s wps 10.45K ppl 1.49 gN 19.22 edit_distance 0.19, Thu Aug  2 19:19:28 2018
+  step 9300 lr 0.0001 step-time 0.55s wps 10.26K ppl 1.49 gN 17.59 edit_distance 0.19, Thu Aug  2 19:20:23 2018
+  step 9400 lr 0.0001 step-time 0.55s wps 10.27K ppl 1.49 gN 17.06 edit_distance 0.19, Thu Aug  2 19:21:18 2018
+  step 9500 lr 0.0001 step-time 0.55s wps 10.26K ppl 1.49 gN 18.08 edit_distance 0.19, Thu Aug  2 19:22:13 2018
+  step 9600 lr 0.0001 step-time 0.55s wps 10.26K ppl 1.49 gN 20.10 edit_distance 0.19, Thu Aug  2 19:23:30 2018
+  step 9700 lr 0.0001 step-time 0.55s wps 10.27K ppl 1.49 gN 18.16 edit_distance 0.19, Thu Aug  2 19:24:26 2018
+  step 9800 lr 0.0001 step-time 0.55s wps 10.24K ppl 1.49 gN 17.97 edit_distance 0.19, Thu Aug  2 19:25:21 2018
+  step 9900 lr 0.0001 step-time 0.55s wps 10.47K ppl 1.48 gN 17.89 edit_distance 0.19, Thu Aug  2 19:26:15 2018
+  step 10000 lr 0.0001 step-time 0.55s wps 10.22K ppl 1.49 gN 16.94 edit_distance 0.19, Thu Aug  2 19:27:11 2018
+  step 10100 lr 0.0001 step-time 0.55s wps 10.28K ppl 1.48 gN 17.59 edit_distance 0.19, Thu Aug  2 19:28:41 2018
+  step 10200 lr 0.0001 step-time 0.55s wps 10.34K ppl 1.48 gN 18.82 edit_distance 0.19, Thu Aug  2 19:29:36 2018
+  step 10300 lr 0.0001 step-time 0.54s wps 10.44K ppl 1.48 gN 18.39 edit_distance 0.19, Thu Aug  2 19:30:30 2018
+  step 10400 lr 0.0001 step-time 0.55s wps 10.38K ppl 1.48 gN 17.11 edit_distance 0.19, Thu Aug  2 19:31:25 2018
+  step 10500 lr 0.0001 step-time 0.54s wps 10.63K ppl 1.48 gN 16.64 edit_distance 0.19, Thu Aug  2 19:32:19 2018
+  step 10600 lr 0.0001 step-time 0.54s wps 10.42K ppl 1.48
