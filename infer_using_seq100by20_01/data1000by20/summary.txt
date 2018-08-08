@@ -1,5 +1,5 @@
 Dataset Report
-Output directory = /home/leonalexandre/nmt/data1000by20
+Output directory = ../nmt/data1000by20
 Sequence Length = 1000
 Alphabet Size = 2
 Deletion probability = 0.1
