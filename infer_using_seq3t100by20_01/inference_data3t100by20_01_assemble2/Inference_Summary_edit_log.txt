@@ -1,0 +1,5 @@
+Dataset Report
+Number of sequences =   1000
+Average edit distance = 0.157257425742574
+Average length mismatch = 7.298
+Mode = edit
