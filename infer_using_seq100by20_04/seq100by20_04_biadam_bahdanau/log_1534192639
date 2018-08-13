@@ -1,0 +1,14 @@
+# log_file=./seq100by20_04_biadam_bahdanau/log_1534192639
+# Start step 15000, lr 0.0001, Mon Aug 13 20:38:21 2018
+  step 15200 lr 0.0001 step-time 0.77s wps 9.98K ppl 1.41 gN 20.27 edit_distance 0.18, Mon Aug 13 20:40:56 2018
+  step 15400 lr 0.0001 step-time 0.76s wps 10.16K ppl 1.41 gN 20.26 edit_distance 0.18, Mon Aug 13 20:43:27 2018
+  step 15600 lr 0.0001 step-time 0.76s wps 10.04K ppl 1.40 gN 19.25 edit_distance 0.18, Mon Aug 13 20:46:38 2018
+  step 15800 lr 0.0001 step-time 0.76s wps 10.11K ppl 1.41 gN 16.71 edit_distance 0.18, Mon Aug 13 20:49:10 2018
+  step 16000 lr 0.0001 step-time 0.76s wps 10.10K ppl 1.40 gN 18.89 edit_distance 0.18, Mon Aug 13 20:51:43 2018
+  step 16200 lr 0.0001 step-time 0.77s wps 9.98K ppl 1.40 gN 17.06 edit_distance 0.18, Mon Aug 13 20:54:56 2018
+  step 16400 lr 0.0001 step-time 0.75s wps 10.30K ppl 1.40 gN 17.54 edit_distance 0.18, Mon Aug 13 20:57:25 2018
+  step 16600 lr 0.0001 step-time 0.74s wps 10.34K ppl 1.40 gN 14.81 edit_distance 0.18, Mon Aug 13 21:00:32 2018
+  step 16800 lr 0.0001 step-time 0.74s wps 10.29K ppl 1.40 gN 16.27 edit_distance 0.18, Mon Aug 13 21:03:01 2018
+  step 17000 lr 0.0001 step-time 0.74s wps 10.48K ppl 1.40 gN 15.95 edit_distance 0.18, Mon Aug 13 21:05:28 2018
+# Final, step 17000 lr 0.0001 step-time 0.74s wps 10.48K ppl 1.40 gN 15.95 dev ppl 1.41, dev edit_distance 0.2, test ppl 1.42, test edit_distance 0.2, Mon Aug 13 21:07:26 2018
+# Best edit_distance, step 16500 lr 0.0001 step-time 0.74s wps 10.48K ppl 1.40 gN 15.95 dev ppl 1.41, dev edit_distance 0.2, test ppl 1.42, test edit_distance 0.2, Mon Aug 13 21:08:25 2018
