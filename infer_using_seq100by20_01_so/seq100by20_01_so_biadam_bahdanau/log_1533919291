@@ -1,0 +1,7 @@
+# log_file=./seq100by20_01_so_biadam_bahdanau/log_1533919291
+# Start step 15000, lr 0.0001, Fri Aug 10 16:42:18 2018
+  step 15200 lr 0.0001 step-time 0.56s wps 10.12K ppl 1.72 gN 23.79 edit_distance 0.22, Fri Aug 10 16:44:10 2018
+  step 15400 lr 0.0001 step-time 0.55s wps 10.27K ppl 1.71 gN 15.82 edit_distance 0.22, Fri Aug 10 16:45:59 2018
+  step 15600 lr 0.0001 step-time 0.54s wps 10.31K ppl 1.72 gN 12.26 edit_distance 0.21, Fri Aug 10 16:48:16 2018
+  step 15800 lr 0.0001 step-time 0.54s wps 10.47K ppl 1.71 gN 14.16 edit_distance 0.21, Fri Aug 10 16:50:04 2018
+  step 16000 lr 0.0001 step-time 0.54s wps 10.34K ppl 1.71 gN 15.78 edit_distance 0.21, Fri Aug 10 16:51:52 2018
