@@ -1,0 +1,29 @@
+# log_file=./seq100by10_04_biadam_bahdanau/log_1534358072
+# Start step 10000, lr 0.0001, Wed Aug 15 18:35:33 2018
+  step 10200 lr 0.0001 step-time 0.36s wps 12.07K ppl 1.56 gN 9.65 edit_distance 0.24, Wed Aug 15 18:36:46 2018
+  step 10400 lr 0.0001 step-time 0.35s wps 12.26K ppl 1.56 gN 9.26 edit_distance 0.24, Wed Aug 15 18:37:56 2018
+  step 10600 lr 0.0001 step-time 0.35s wps 12.30K ppl 1.55 gN 9.02 edit_distance 0.24, Wed Aug 15 18:39:46 2018
+  step 10800 lr 0.0001 step-time 0.35s wps 12.39K ppl 1.55 gN 9.08 edit_distance 0.24, Wed Aug 15 18:40:56 2018
+  step 11000 lr 0.0001 step-time 0.35s wps 12.26K ppl 1.55 gN 8.59 edit_distance 0.24, Wed Aug 15 18:42:07 2018
+  step 11200 lr 0.0001 step-time 0.36s wps 12.19K ppl 1.54 gN 8.06 edit_distance 0.24, Wed Aug 15 18:43:57 2018
+  step 11400 lr 0.0001 step-time 0.34s wps 12.71K ppl 1.54 gN 8.41 edit_distance 0.24, Wed Aug 15 18:45:05 2018
+  step 11600 lr 0.0001 step-time 0.36s wps 12.00K ppl 1.54 gN 8.43 edit_distance 0.23, Wed Aug 15 18:46:57 2018
+  step 11800 lr 0.0001 step-time 0.36s wps 12.05K ppl 1.53 gN 8.10 edit_distance 0.23, Wed Aug 15 18:48:09 2018
+  step 12000 lr 0.0001 step-time 0.36s wps 12.06K ppl 1.54 gN 8.33 edit_distance 0.23, Wed Aug 15 18:49:21 2018
+  step 12200 lr 0.0001 step-time 0.36s wps 12.01K ppl 1.53 gN 7.96 edit_distance 0.23, Wed Aug 15 18:51:35 2018
+  step 12400 lr 0.0001 step-time 0.36s wps 12.21K ppl 1.53 gN 7.80 edit_distance 0.23, Wed Aug 15 18:52:46 2018
+  step 12600 lr 0.0001 step-time 0.36s wps 12.20K ppl 1.53 gN 7.48 edit_distance 0.23, Wed Aug 15 18:54:37 2018
+  step 12800 lr 0.0001 step-time 0.34s wps 12.63K ppl 1.53 gN 7.71 edit_distance 0.23, Wed Aug 15 18:55:46 2018
+  step 13000 lr 0.0001 step-time 0.35s wps 12.25K ppl 1.53 gN 7.46 edit_distance 0.23, Wed Aug 15 18:56:57 2018
+  step 13200 lr 0.0001 step-time 0.36s wps 12.14K ppl 1.52 gN 7.35 edit_distance 0.23, Wed Aug 15 18:58:47 2018
+  step 13400 lr 0.0001 step-time 0.36s wps 12.21K ppl 1.53 gN 7.55 edit_distance 0.23, Wed Aug 15 18:59:58 2018
+  step 13600 lr 0.0001 step-time 0.35s wps 12.22K ppl 1.52 gN 7.56 edit_distance 0.23, Wed Aug 15 19:01:48 2018
+  step 13800 lr 0.0001 step-time 0.35s wps 12.25K ppl 1.52 gN 7.80 edit_distance 0.23, Wed Aug 15 19:02:59 2018
+  step 14000 lr 0.0001 step-time 0.35s wps 12.37K ppl 1.52 gN 6.94 edit_distance 0.23, Wed Aug 15 19:04:09 2018
+  step 14200 lr 0.0001 step-time 0.34s wps 12.71K ppl 1.52 gN 6.78 edit_distance 0.23, Wed Aug 15 19:06:17 2018
+  step 14400 lr 0.0001 step-time 0.36s wps 12.19K ppl 1.52 gN 7.83 edit_distance 0.23, Wed Aug 15 19:07:29 2018
+  step 14600 lr 0.0001 step-time 0.35s wps 12.31K ppl 1.52 gN 6.74 edit_distance 0.23, Wed Aug 15 19:09:18 2018
+  step 14800 lr 0.0001 step-time 0.36s wps 12.19K ppl 1.52 gN 6.96 edit_distance 0.23, Wed Aug 15 19:10:29 2018
+  step 15000 lr 0.0001 step-time 0.36s wps 12.21K ppl 1.52 gN 6.85 edit_distance 0.23, Wed Aug 15 19:11:40 2018
+# Final, step 15000 lr 0.0001 step-time 0.36s wps 12.21K ppl 1.52 gN 6.85 dev ppl 1.51, dev edit_distance 0.2, test ppl 1.51, test edit_distance 0.2, Wed Aug 15 19:13:20 2018
+# Best edit_distance, step 11500 lr 0.0001 step-time 0.36s wps 12.21K ppl 1.52 gN 6.85 dev ppl 1.53, dev edit_distance 0.2, test ppl 1.53, test edit_distance 0.2, Wed Aug 15 19:14:20 2018
