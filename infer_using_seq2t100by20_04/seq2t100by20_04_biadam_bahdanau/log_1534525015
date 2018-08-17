@@ -1,0 +1,11 @@
+# log_file=./seq2t100by20_04_biadam_bahdanau/log_1534525015
+# Start step 5500, lr 0.0001, Fri Aug 17 17:01:15 2018
+  step 5700 lr 0.0001 step-time 3.60s wps 3.30K ppl 1.38 gN 31.85 edit_distance 0.17, Fri Aug 17 17:13:16 2018
+  step 5900 lr 0.0001 step-time 3.56s wps 3.33K ppl 1.37 gN 32.11 edit_distance 0.17, Fri Aug 17 17:25:07 2018
+  step 6100 lr 0.0001 step-time 3.56s wps 3.33K ppl 1.37 gN 32.49 edit_distance 0.17, Fri Aug 17 17:39:23 2018
+  step 6300 lr 0.0001 step-time 3.55s wps 3.35K ppl 1.36 gN 27.92 edit_distance 0.17, Fri Aug 17 17:51:13 2018
+  step 6500 lr 0.0001 step-time 3.55s wps 3.33K ppl 1.36 gN 28.40 edit_distance 0.17, Fri Aug 17 18:03:04 2018
+  step 6700 lr 0.0001 step-time 3.56s wps 3.33K ppl 1.35 gN 28.77 edit_distance 0.16, Fri Aug 17 18:17:20 2018
+  step 6900 lr 0.0001 step-time 3.56s wps 3.34K ppl 1.34 gN 40.87 edit_distance 0.16, Fri Aug 17 18:29:12 2018
+# Final, step 7000 lr 0.0001 step-time 3.56s wps 3.34K ppl 1.34 gN 40.87 dev ppl 1.33, dev edit_distance 0.2, test ppl 1.33, test edit_distance 0.2, Fri Aug 17 18:41:44 2018
+# Best edit_distance, step 7000 lr 0.0001 step-time 3.56s wps 3.34K ppl 1.34 gN 40.87 dev ppl 1.33, dev edit_distance 0.2, test ppl 1.33, test edit_distance 0.2, Fri Aug 17 18:45:59 2018
