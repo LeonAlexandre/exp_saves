@@ -5,4 +5,8 @@ Average normalized editdistance 2 = 0.20381188118811894
 Average normalized hamming distance = 0.35785148514851545
 Average delta = 0.09749321685109658
 Average normalized len diff = 2.9702970297029702e-05
+Region00.13827999999999946
+Region10.19707999999999998
+Region20.18891999999999978
+Region30.15071999999999913
 Mode = none--bias=none
