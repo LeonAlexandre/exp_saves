@@ -1,0 +1,11 @@
+Dataset Report
+Output directory = ../nmt/data1000by20_00
+Sequence Length = 1000
+Alphabet Size = 2
+Deletion probability = 0.1
+Number of sequences = 5000
+Number of traces = 2
+Train size = 60.0%
+Validation size = 20.0%
+Number of fragments = 50
+Overlap rate = 0.0%
