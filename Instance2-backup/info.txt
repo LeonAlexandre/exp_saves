@@ -1,0 +1,7 @@
+Instance 2 ran a lot of the architecture experiments, playing around with the different params
+Per tab in the spreadsheet:
+-seq25 experiments with variable PARAMS
+
+-2traces tab. a lot of playing around with Params trying to improve the edit distance
+
+-tried with triple, failed overall
