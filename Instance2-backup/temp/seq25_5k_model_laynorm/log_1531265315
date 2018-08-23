@@ -1,0 +1,54 @@
+# log_file=./nmt/temp/seq25_5k_model_laynorm/log_1531265315
+# Start step 0, lr 1, Tue Jul 10 23:28:47 2018
+  step 100 lr 1 step-time 0.65s wps 7.46K ppl 5.29 gN 21.30 edit_distance 35.98, Tue Jul 10 23:29:51 2018
+  step 200 lr 1 step-time 0.60s wps 8.05K ppl 2.31 gN 1.22 edit_distance 35.98, Tue Jul 10 23:30:51 2018
+  step 300 lr 1 step-time 0.60s wps 8.03K ppl 2.30 gN 0.91 edit_distance 35.98, Tue Jul 10 23:31:51 2018
+  step 400 lr 1 step-time 0.60s wps 8.05K ppl 2.28 gN 1.05 edit_distance 35.98, Tue Jul 10 23:32:51 2018
+  step 500 lr 1 step-time 0.60s wps 8.06K ppl 2.28 gN 0.86 edit_distance 35.98, Tue Jul 10 23:33:51 2018
+  step 600 lr 1 step-time 0.60s wps 8.04K ppl 2.28 gN 0.85 edit_distance 22.81, Tue Jul 10 23:34:59 2018
+  step 700 lr 1 step-time 0.60s wps 8.06K ppl 2.29 gN 0.83 edit_distance 22.81, Tue Jul 10 23:35:59 2018
+  step 800 lr 1 step-time 0.60s wps 8.09K ppl 2.28 gN 1.82 edit_distance 22.81, Tue Jul 10 23:36:59 2018
+  step 900 lr 1 step-time 0.60s wps 8.09K ppl 2.27 gN 0.84 edit_distance 22.81, Tue Jul 10 23:37:58 2018
+  step 1000 lr 1 step-time 0.60s wps 8.05K ppl 2.29 gN 1.32 edit_distance 22.81, Tue Jul 10 23:38:58 2018
+  step 1100 lr 1 step-time 0.60s wps 8.05K ppl 2.28 gN 0.90 edit_distance 22.81, Tue Jul 10 23:40:08 2018
+  step 1200 lr 1 step-time 0.60s wps 8.02K ppl 2.27 gN 0.64 edit_distance 22.81, Tue Jul 10 23:41:08 2018
+  step 1300 lr 1 step-time 0.60s wps 8.01K ppl 2.27 gN 1.04 edit_distance 22.81, Tue Jul 10 23:42:08 2018
+  step 1400 lr 1 step-time 0.60s wps 8.08K ppl 2.26 gN 0.98 edit_distance 22.81, Tue Jul 10 23:43:08 2018
+  step 1500 lr 1 step-time 0.60s wps 8.08K ppl 2.26 gN 0.92 edit_distance 22.81, Tue Jul 10 23:44:07 2018
+  step 1600 lr 1 step-time 0.59s wps 8.16K ppl 2.28 gN 0.91 edit_distance 22.81, Tue Jul 10 23:45:15 2018
+  step 1700 lr 1 step-time 0.59s wps 8.10K ppl 2.27 gN 0.64 edit_distance 22.81, Tue Jul 10 23:46:14 2018
+  step 1800 lr 1 step-time 0.60s wps 8.03K ppl 2.27 gN 0.70 edit_distance 22.81, Tue Jul 10 23:47:14 2018
+  step 1900 lr 1 step-time 0.60s wps 8.00K ppl 2.26 gN 0.66 edit_distance 22.81, Tue Jul 10 23:48:14 2018
+  step 2000 lr 1 step-time 0.60s wps 8.03K ppl 2.23 gN 0.99 edit_distance 22.81, Tue Jul 10 23:49:14 2018
+  step 2100 lr 1 step-time 0.59s wps 8.10K ppl 2.20 gN 1.19 edit_distance 22.10, Tue Jul 10 23:50:24 2018
+  step 2200 lr 1 step-time 0.60s wps 8.05K ppl 2.20 gN 1.07 edit_distance 22.10, Tue Jul 10 23:51:24 2018
+  step 2300 lr 1 step-time 0.60s wps 8.06K ppl 2.25 gN 0.96 edit_distance 22.10, Tue Jul 10 23:52:24 2018
+  step 2400 lr 1 step-time 0.60s wps 8.02K ppl 2.23 gN 0.96 edit_distance 22.10, Tue Jul 10 23:53:24 2018
+  step 2500 lr 1 step-time 0.60s wps 8.00K ppl 2.23 gN 0.83 edit_distance 22.10, Tue Jul 10 23:54:24 2018
+  step 2600 lr 1 step-time 0.60s wps 8.05K ppl 2.21 gN 1.27 edit_distance 20.58, Tue Jul 10 23:55:32 2018
+  step 2700 lr 1 step-time 0.60s wps 8.06K ppl 2.21 gN 1.16 edit_distance 20.58, Tue Jul 10 23:56:32 2018
+  step 2800 lr 1 step-time 0.60s wps 8.09K ppl 2.19 gN 1.22 edit_distance 20.58, Tue Jul 10 23:57:31 2018
+  step 2900 lr 1 step-time 0.60s wps 8.03K ppl 2.21 gN 1.03 edit_distance 20.58, Tue Jul 10 23:58:31 2018
+  step 3000 lr 1 step-time 0.60s wps 8.02K ppl 2.21 gN 1.29 edit_distance 20.58, Tue Jul 10 23:59:31 2018
+  step 3100 lr 1 step-time 0.60s wps 8.02K ppl 2.23 gN 1.05 edit_distance 20.58, Wed Jul 11 00:00:42 2018
+  step 3200 lr 1 step-time 0.59s wps 8.12K ppl 2.28 gN 0.42 edit_distance 20.58, Wed Jul 11 00:01:41 2018
+  step 3300 lr 1 step-time 0.59s wps 8.12K ppl 2.26 gN 0.95 edit_distance 20.58, Wed Jul 11 00:02:40 2018
+  step 3400 lr 1 step-time 0.59s wps 8.10K ppl 2.26 gN 1.19 edit_distance 20.58, Wed Jul 11 00:03:40 2018
+  step 3500 lr 1 step-time 0.59s wps 8.10K ppl 2.29 gN 1.19 edit_distance 20.58, Wed Jul 11 00:04:39 2018
+  step 3600 lr 1 step-time 0.59s wps 8.05K ppl 2.25 gN 1.16 edit_distance 20.58, Wed Jul 11 00:05:47 2018
+  step 3700 lr 1 step-time 0.60s wps 8.00K ppl 2.24 gN 0.81 edit_distance 20.58, Wed Jul 11 00:06:47 2018
+  step 3800 lr 1 step-time 0.60s wps 8.03K ppl 2.26 gN 3.69 edit_distance 20.58, Wed Jul 11 00:07:47 2018
+  step 3900 lr 1 step-time 0.60s wps 8.00K ppl 2.21 gN 1.14 edit_distance 20.58, Wed Jul 11 00:08:47 2018
+  step 4000 lr 1 step-time 0.60s wps 8.02K ppl 2.18 gN 1.28 edit_distance 20.58, Wed Jul 11 00:09:48 2018
+  step 4100 lr 1 step-time 0.60s wps 8.05K ppl 2.19 gN 1.37 edit_distance 19.38, Wed Jul 11 00:10:58 2018
+  step 4200 lr 1 step-time 0.60s wps 8.02K ppl 2.17 gN 1.36 edit_distance 19.38, Wed Jul 11 00:11:58 2018
+  step 4300 lr 1 step-time 0.60s wps 8.05K ppl 2.45 gN 1.69 edit_distance 19.38, Wed Jul 11 00:12:58 2018
+  step 4400 lr 1 step-time 0.60s wps 8.03K ppl 2.27 gN 0.63 edit_distance 19.38, Wed Jul 11 00:13:58 2018
+  step 4500 lr 1 step-time 0.60s wps 8.06K ppl 2.27 gN 1.03 edit_distance 19.38, Wed Jul 11 00:14:57 2018
+  step 4600 lr 1 step-time 0.60s wps 8.04K ppl 2.25 gN 0.94 edit_distance 19.38, Wed Jul 11 00:16:05 2018
+  step 4700 lr 1 step-time 0.60s wps 8.06K ppl 2.24 gN 1.01 edit_distance 19.38, Wed Jul 11 00:17:05 2018
+  step 4800 lr 1 step-time 0.60s wps 8.00K ppl 2.25 gN 1.06 edit_distance 19.38, Wed Jul 11 00:18:05 2018
+  step 4900 lr 1 step-time 0.60s wps 8.03K ppl 2.25 gN 0.86 edit_distance 19.38, Wed Jul 11 00:19:05 2018
+  step 5000 lr 1 step-time 0.60s wps 8.01K ppl 2.27 gN 1.24 edit_distance 19.38, Wed Jul 11 00:20:05 2018
+# Final, step 5000 lr 1 step-time 0.60s wps 8.01K ppl 2.27 gN 1.24 dev ppl 2.40, dev edit_distance 23.6, test ppl 2.40, test edit_distance 23.0, Wed Jul 11 00:20:25 2018
+# Best edit_distance, step 4000 lr 1 step-time 0.60s wps 8.01K ppl 2.27 gN 1.24 dev ppl 2.17, dev edit_distance 19.4, test ppl 2.17, test edit_distance 18.8, Wed Jul 11 00:20:34 2018

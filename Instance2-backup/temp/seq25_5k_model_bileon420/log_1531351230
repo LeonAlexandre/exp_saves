@@ -1,0 +1,3 @@
+# log_file=./nmt/temp/seq25_5k_model_bileon420/log_1531351230
+# Start step 16500, lr 9.15527e-05, Wed Jul 11 23:20:36 2018
+  step 16700 lr 9.15527e-05 step-time 0.15s wps 31.91K ppl 1.96 gN 4.07 edit_distance 8.73, Wed Jul 11 23:21:06 2018
